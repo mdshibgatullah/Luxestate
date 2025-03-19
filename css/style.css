@@ -73,13 +73,6 @@ border: 1.5px solid var(--color1);
 /*------------Hero---------*/
 
 
-.heroWrapper{
-    width: 100%;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-}
-
 .heroCon{
     width: 500px;
 }
@@ -127,7 +120,7 @@ border: 1.5px solid var(--color1);
     right: 0;
     bottom: 0;
     background: var(--color1);
-    padding: 25px 40px;
+    /* padding: 25px 40px; */
 }
 
 .heroContact i{
